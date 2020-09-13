@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HP Gelo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP Gelo\\.nuget\\packages"
+    ]
+  }
+}

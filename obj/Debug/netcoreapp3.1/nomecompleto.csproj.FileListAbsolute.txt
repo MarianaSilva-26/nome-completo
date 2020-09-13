@@ -1,0 +1,13 @@
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.exe
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.deps.json
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.runtimeconfig.json
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.runtimeconfig.dev.json
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.dll
+C:\Users\HP Gelo\Documents\nomecompleto\bin\Debug\netcoreapp3.1\nomecompleto.pdb
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.csprojAssemblyReference.cache
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.AssemblyInfoInputs.cache
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.AssemblyInfo.cs
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.csproj.CoreCompileInputs.cache
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.dll
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.pdb
+C:\Users\HP Gelo\Documents\nomecompleto\obj\Debug\netcoreapp3.1\nomecompleto.genruntimeconfig.cache
